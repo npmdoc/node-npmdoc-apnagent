@@ -1,4 +1,7 @@
-# api documentation for  [apnagent (v1.1.3)](http://apnagent.qualiancy.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-apnagent.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-apnagent) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-apnagent.svg)](https://travis-ci.org/npmdoc/node-npmdoc-apnagent)
+# npmdoc-apnagent
+
+#### basic api documentation for  [apnagent (v1.1.3)](http://apnagent.qualiancy.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-apnagent.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-apnagent) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-apnagent.svg)](https://travis-ci.org/npmdoc/node-npmdoc-apnagent)
+
 #### Node adapter for Apple Push Notification (APN) service.
 
 [![NPM](https://nodei.co/npm/apnagent.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/apnagent)
@@ -85,7 +88,8 @@
         "serve": "serve -L -D --compress docs/out",
         "test": "make test"
     },
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "bin": {}
 }
 ```
 
